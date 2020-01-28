@@ -1,0 +1,14 @@
+def dodawanie_ulamkow(x, y, a, b):
+    if (y == b):
+        dodawanie_1 = x + a
+        print(dodawanie_1, "/", y)
+    else:
+        wspolny_mianownik = y * b
+        dodawanie_2 = x*b + a*y
+        print(dodawanie_2, "/",wspolny_mianownik)
+        
+        
+    
+    
+    
+    
